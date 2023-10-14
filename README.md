@@ -33,7 +33,7 @@
 
 <div align="center">
   <img height="180em" src="https://readme-stats.warengonzaga.com/api?username=jmcfig&show_icons=true&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://readme-stats.warengonzaga.com/api/top-langs?username=jmcfig03&layout=compact"/>
+ <img height="180em" src="https://readme-stats.warengonzaga.com/api/top-langs?username=jmcfig&layout=compact"/>
 </div>
 
 	
