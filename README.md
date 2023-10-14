@@ -16,9 +16,9 @@
 
 <p align="center">
 <br>
-<a href="https://www.instagram.com/diogocs__/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/diogo-silva-043450295/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:dcoutinhosilva03@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.instagram.com/joao.miguel.figueiredo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jmfigueiredo03/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:jmfigueiredo03@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 <a href="https://open.spotify.com/user/franciscosccampos?si=d7f66e6085074651"><img src="https://img.shields.io/badge/spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
@@ -32,8 +32,8 @@
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://readme-stats.warengonzaga.com/api?username=diogocs24&show_icons=true&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://readme-stats.warengonzaga.com/api/top-langs?username=diogocs24&layout=compact"/>
+  <img height="180em" src="https://readme-stats.warengonzaga.com/api?username=jmcfig&show_icons=true&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://readme-stats.warengonzaga.com/api/top-langs?username=jmcfig24&layout=compact"/>
 </div>
 
 	
