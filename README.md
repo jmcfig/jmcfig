@@ -11,7 +11,7 @@
 
 - :school: I am a `Student` at [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/en/web_page.inicial).
 - :student: BSCs in `Informatics and Computer Engineering`.
-- :student: Currently: Master in `Artificial Intelligence`.
+- :student: Currently: `Master in Artificial Intelligence`.
 
 ## 🌐 SOCIALS
 
